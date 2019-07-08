@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="black">#000000</color>
+    <color name="dark_gray">#a1a1a1</color>
+    <color name="selected_dot">#DE2800</color>
+    <color name="navigation_background">#575C5F</color>
+    <color name="orange_color">#F87065</color>
+    <color name="tab_indicator_color">#fc4e02</color>
+    <color name="c_leadsbottomtext">#AAAAAA</color>
+    <color name="c_lead_header">#222222</color>
+    <color name="c_lead_entries">#888888</color>
+    <color name="c_lead_header_bg">#EEEEEE</color>
+    <color name="c_lead_list_txt">#4389A2</color>
+    <color name="c_leads_list_date">#626262</color>
+    <color name="c_lead_list_green">#46C984</color>
+    <color name="c_lead_add_view">#CCCCCC</color>
+    <color name="c_leads_add_industry_text">#4389A2</color>
+    <color name="c_lead_detail_view">#68BCDA</color>
+    <color name="c_add_new_industry_edittext">#F6F6F6</color>
+    <color name="c_add_new_industry_view">#4389A2</color>
+    <color name="c_add_header_text">#4389A7</color>
+    <color name="c_delete_text">#DA596F</color>
+    <color name="c_customer_detail_yellow">#F4CA84</color>
+
+    <color name="text_color1">#454D57</color>
+    <color name="text_color2">#707E90</color>
+    <color name="text_orange_color">#fc4e02</color>
+
+    <color name="Grey_100">#F5F5F5</color>
+    <color name="Grey_200">#EEEEEE</color>
+    <color name="Grey_300">#E0E0E0</color>
+    <color name="Grey_400">#BDBDBD</color>
+    <color name="Grey_50">#FAFAFA</color>
+    <color name="Grey_500">#9E9E9E</color>
+    <color name="Grey_600">#757575</color>
+    <color name="Grey_700">#616161</color>
+    <color name="Grey_800">#424242</color>
+    <color name="Grey_900">#212121</color>
+</resources>
